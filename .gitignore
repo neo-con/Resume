@@ -1,2 +1,20 @@
 personal/
 archive/
+
+# Ignore system and OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+
+# Ignore Pipenv files
+Pipfile.lock
