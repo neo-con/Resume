@@ -14,7 +14,7 @@ This repository contains Python scripts for generating a professional resume, co
 ## Getting Started
 
 1. Ensure that you have `Python 3.11.2` and `pipenv` installed on your machine.
-2. Clone this repository to your local machine using `git clone https://github.com/neo-con/Resume.git`
+2. Clone this repository to your local machine using `git clone https://github.com/neo-con/python-resume-generator.git`
 3. Navigate to the directory where you cloned the repository.
 4. Run `pipenv install` to install the necessary Python libraries.
 
